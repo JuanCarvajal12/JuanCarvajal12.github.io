@@ -14,7 +14,7 @@ layout: home
     <h1 style="margin-top:0; margin-bottom:0.4rem;">Juan Pablo Carvajal González</h1>
 
     <p style="margin:0 0 0.9rem 0; opacity:0.9;">
-      PhD candidate in Astrophysics · Pontificia Universidad Católica de Chile
+      PhD candidate in Astrophysics at Pontificia Universidad Católica de Chile working under the supervision of Prof. Thomas H. Puzia.
     </p>
 
     <div style="margin:0 0 1.0rem 0;">
