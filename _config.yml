@@ -1,8 +1,8 @@
 title: PhD(c) Juan P. Carvajal
-description: PhD candidate in astrophysics -- Observational, Spectroscopy, Photometry, Machine Learning  | Dwarf Galaxies | Evolution
+description: PhD(c) in astrophysics -- Environmental processing of Dwarf Galaxies
 theme: minima
 
 header_pages:
+  - research.md
   - publications.md
   - outreach.md
-  - featured.md
