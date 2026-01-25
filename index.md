@@ -23,7 +23,7 @@ layout: home
         My thesis focuses on <strong>targeted observations of Fornax dwarfs</strong> that retain gas while showing clear signs of transformation.
       </p>
 
-      <p style="margin:0;">
+      <p style="margin:0 0 0.6rem 0;">
         My core instrument is <strong>VLT/MUSE</strong>, but I work across wavelengths from <strong>FUV to radio</strong>,
         combining existing datasets with new observations and proposals. I have ongoing programs to acquire optical IFU spectroscopy with VLT/MUSE, and radio observations with APEX.
       </p>
@@ -33,10 +33,6 @@ layout: home
         and more recently on major spectroscopic observations of the third interstellar object, 3I/ATLAS.
       </p>
     </div>
-
-    <p style="margin:0.2rem 0 0.9rem 0;">
-      <strong>Keywords:</strong> dwarf galaxies · Fornax Cluster · ram pressure stripping · IFU spectroscopy · multi-phase ISM · low surface brightness
-    </p>
 
     <p style="margin:0;">
       <a href="mailto:gjuanpablo@uc.cl">Email</a> ·
