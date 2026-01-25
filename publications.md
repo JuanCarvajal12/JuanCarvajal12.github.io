@@ -13,7 +13,7 @@ For a complete and up-to-date list, see:
 
 ## Dwarf galaxy evolution
 
-- **Carvajal, Juan P.**; Puzia, Thomas H.; Blaña, M.; Nayak, P.; Fahrion, K.; Hilker, M.; Emsellem, E.; Skillman, E. D.; Mora, M. D.; Miller, B.; Ordenes-Briceño, Y.; Eigenthaler, P.; Chanamé, J.; Rahatgaonkar, R. (2026, submitted).  
+- **Carvajal, Juan P.**; Puzia, Thomas H.; Blaña, M.; Nayak, P.; Fahrion, K.; Hilker, M.; *et al.* (2026, submitted).  
   *Tidal pre-conditioning and ram-pressure stripping in NGC 1427A: Deep VLT/MUSE spectroscopy and FUV–to–radio observations trace a Fornax Cluster dwarf in transformation.*  
   
 
@@ -57,7 +57,7 @@ For a complete and up-to-date list, see:
 
 ## Methods / time-domain / other
 
-- **Carvajal, J. P.**; Bauer, F. E.; Reyes-Jainaga, I.; *et al.* (2025, A&A, 697, A119).  
+- **Carvajal, J. P.**; Bauer, F. E.; *et al.* (2025, A&A, 697, A119).  
   *Tuning into the spatial frequency space: Satellite and space debris detection in the ZTF alert stream*  
   [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.119C/abstract) ·
   [arXiv](https://arxiv.org/abs/2507.02859) ·

@@ -29,4 +29,4 @@ RECA Educación received the **Europlanet Prize for Public Engagement (2025)**, 
 - [Europlanet announcement](https://www.europlanet.org/europlanet-prize-for-public-engagement-2025-awarded-to-reca-educacion/)
 
 BARCo has been supported through the IAU Office of Astronomy for Development (OAD) funding programmes.
-- [IAU/OAD call results mentioning BARCo](https://astro4dev.org/bringing-astronomy-to-rural-communities-of-colombia/)
+- [IAU/OAD BARCo page](https://astro4dev.org/bringing-astronomy-to-rural-communities-of-colombia/)
