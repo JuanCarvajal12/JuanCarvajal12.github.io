@@ -76,7 +76,7 @@ I also like solar system science. My first ever paper (2023) was on Active Aster
 For details on this research see the [Publications]({{ '/publications/' | relative_url }}).
 
 <figure style="margin:18px 0;">
-  <img src="{{ '/assets/img/uc_solar_system_group.jpg' | relative_url }}"
+  <img src="{{ '/assets/img/UC_team_photo.jpg' | relative_url }}"
        alt="UC Chile solar system working group"
        style="width:100%; max-width:900px; border-radius:12px; display:block;">
   <figcaption style="font-size:0.92rem; color:#555; margin-top:6px;">
