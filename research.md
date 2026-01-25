@@ -34,8 +34,8 @@ NGC 1427A is my main benchmark object to understand early transformation in a lo
 **High-level result:** stars and gas are strongly decoupled, and the multi-phase constraints point to **ram-pressure stripping with a strong line-of-sight component**, plus an additional local perturbation consistent with a mild dwarf–dwarf fly-by.
 
 **Status / link**
-- *Tidal pre-conditioning and ram-pressure stripping in NGC 1427A* (submitted)
-  - [ADS](#) · [arXiv](#) · [PDF](#)
+- Tidal pre-conditioning and ram-pressure stripping in NGC\,1427A. Deep VLT/MUSE spectroscopy and FUV--to--radio observations trace a Fornax Cluster dwarf in transformation (submitted)
+  - If not available on arxiv yet, feel free to reach out requesting a preprint.
 
 ### Figures (from Carvajal et al., submitted)
 
@@ -65,3 +65,22 @@ NGC 1427A is my main benchmark object to understand early transformation in a lo
     <strong>Fig. 10.</strong> Schematic interpretation: a sequence from earlier pre-conditioning to the current stripping geometry, shown in projected and side views to emphasize the line-of-sight component.
   </figcaption>
 </figure>
+
+
+---
+
+## Solar system science
+
+I also like solar system science. My first ever paper (2023) was on Active Asteroids, in preparation for Rubin Observatory era science. I also contribute solar system projects at UC Chile, most notably spectroscopic observations of the interstellar object **3I/ATLAS** and related small-body work. My contributions center in my expertise in astronomical observations and data reduction, and to a lesser extent in domain specific knowledge of solar system science. In the campaign of observations for 3I/ATLAS, I was in charge of data reduction of xshooter spectroscopic observations and primary analysis. I include a photo of the team at UC Chile.
+
+For details on this research see the [Publications]({{ '/publications/' | relative_url }}).
+
+<figure style="margin:18px 0;">
+  <img src="{{ '/assets/img/uc_solar_system_group.jpg' | relative_url }}"
+       alt="UC Chile solar system working group"
+       style="width:100%; max-width:900px; border-radius:12px; display:block;">
+  <figcaption style="font-size:0.92rem; color:#555; margin-top:6px;">
+    From top left, clockwise, Baltasar Luco, Thomas Puzia, Juan Carvajal, Rohan Rahatgaonkar.
+  </figcaption>
+</figure>
+
