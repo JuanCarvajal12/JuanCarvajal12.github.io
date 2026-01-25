@@ -14,7 +14,8 @@ For a complete and up-to-date list, see:
 ## Dwarf galaxy evolution
 
 - **Carvajal, Juan P.**; Puzia, Thomas H.; Blaña, M.; Nayak, P.; Fahrion, K.; Hilker, M.; *et al.* (2026, submitted).  
-  *Tidal pre-conditioning and ram-pressure stripping in NGC 1427A: Deep VLT/MUSE spectroscopy and FUV–to–radio observations trace a Fornax Cluster dwarf in transformation.*  
+  *Tidal pre-conditioning and ram-pressure stripping in NGC 1427A: Deep VLT/MUSE spectroscopy and FUV–to–radio observations trace a Fornax Cluster dwarf in transformation.*
+  [PDF (available on request)]
   
 
 - Fahrion, Katja; Hilker, Michael; Chaturvedi, Avinash; **Carvajal, Juan P.**; Puzia, Thomas H. (2026, submitted).  

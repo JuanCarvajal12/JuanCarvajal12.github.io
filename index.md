@@ -25,7 +25,7 @@ layout: home
 
       <p style="margin:0 0 0.6rem 0;">
         My core instrument is <strong>VLT/MUSE</strong>, but I work across wavelengths from <strong>FUV to radio</strong>,
-        combining existing datasets with new observations and proposals. I have ongoing programs to acquire optical IFU spectroscopy with VLT/MUSE, and radio observations with APEX.
+        combining existing datasets with new observations and proposals. I have ongoing programs to acquire optical IFU spectroscopy with VLT/MUSE, and sub-mm observations with APEX.
       </p>
 
       <p style="margin:0;">

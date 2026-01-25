@@ -34,7 +34,7 @@ NGC 1427A is my main benchmark object to understand early transformation in a lo
 **High-level result:** stars and gas are strongly decoupled, and the multi-phase constraints point to **ram-pressure stripping with a strong line-of-sight component**, plus an additional local perturbation consistent with a mild dwarf–dwarf fly-by.
 
 **Status / link**
-- Tidal pre-conditioning and ram-pressure stripping in NGC\,1427A. Deep VLT/MUSE spectroscopy and FUV--to--radio observations trace a Fornax Cluster dwarf in transformation (submitted)
+- Tidal pre-conditioning and ram-pressure stripping in NGC 1427A. Deep VLT/MUSE spectroscopy and FUV--to--radio observations trace a Fornax Cluster dwarf in transformation (submitted)
   - If not available on arxiv yet, feel free to reach out requesting a preprint.
 
 ### Figures (from Carvajal et al., submitted)
@@ -71,9 +71,8 @@ NGC 1427A is my main benchmark object to understand early transformation in a lo
 
 ## Solar system science
 
-I also like solar system science. My first ever paper (2023) was on Active Asteroids, in preparation for Rubin Observatory era science. I also contribute solar system projects at UC Chile, most notably spectroscopic observations of the interstellar object **3I/ATLAS** and related small-body work. My contributions center in my expertise in astronomical observations and data reduction, and to a lesser extent in domain specific knowledge of solar system science. In the campaign of observations for 3I/ATLAS, I was in charge of data reduction of xshooter spectroscopic observations and primary analysis. I include a photo of the team at UC Chile.
+I also like solar system science. My first paper (2023) focused on active asteroids in the context of Rubin-era science. More recently, I contributed to the 3I/ATLAS campaign, with the X-shooter spectroscopy data reduction and primary analysis. For details see the [Publications]({{ '/publications/' | relative_url }}).
 
-For details on this research see the [Publications]({{ '/publications/' | relative_url }}).
 
 <figure style="margin:18px 0;">
   <img src="{{ '/assets/img/UC_team_photo.jpg' | relative_url }}"
