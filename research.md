@@ -15,14 +15,14 @@ I also collaborate on solar-system projects, including active asteroids and rece
 ## Dwarf galaxy evolution
 
 <figure class="wide-figure">
-  <img src="{{ '/assets/img/ngc1427a_fig2_rgb.png' | relative_url }}"
-       alt="NGC 1427A multi-wavelength view">
+  <img src="{{ '/assets/img/ngc1427a_fig10_cartoon.png' | relative_url }}"
+       alt="Schematic evolutionary interpretation for NGC 1427A">
   <figcaption>
-    NGC 1427A seen through dust, ionised gas, and young stars: Spitzer 8&nbsp;µm, MUSE Hα, and UV/FUV imaging.
+    Cartoon interpretation of NGC 1427A: earlier tidal pre-conditioning followed by ram-pressure stripping with a strong line-of-sight component.
   </figcaption>
 </figure>
 
-My thesis focuses on dwarf galaxies that are still gas-rich but already show signs of environmental transformation. These systems are useful because they let us study transformation while it is happening, rather than only after the galaxy has become gas-poor and quenched.
+Processing of dwarf galaxies in dense environment, such as galaxy cluster, will remove the gas reservoirs. RAM-pressure stripping or an enhanced rate of interactions with other galaxies will quickly remove the gas and dust of the circumgalactic and interestellar media. The transition from gas-rich to gas-poor dwarfs takes place fast (~1 Gyr). Thus, I try to understand how this step in the evolutionary history of dwarf galaxies in clusters occurs by characterising galaxies observed undergoing this transition stage, before they ultimately become gas-poor and quenched.
 
 <div class="research-grid">
 
@@ -33,7 +33,7 @@ My thesis focuses on dwarf galaxies that are still gas-rich but already show sig
 
   <div class="research-card">
     <h3>Star formation</h3>
-    <p>Does environmental processing trigger short-lived bursts, redistribute star formation, or begin quenching?</p>
+    <p>What are the patterns of star formation of dwarfs as they infall clusters (duration, clumpyness, metallicity)?</p>
   </div>
 
   <div class="research-card">
@@ -122,13 +122,7 @@ NGC 1427A is the first benchmark object I studied. It is a disturbed, star-formi
 
 </div>
 
-<figure class="wide-figure">
-  <img src="{{ '/assets/img/ngc1427a_fig10_cartoon.png' | relative_url }}"
-       alt="Schematic evolutionary interpretation for NGC 1427A">
-  <figcaption>
-    Cartoon interpretation of NGC 1427A: earlier tidal pre-conditioning followed by ram-pressure stripping with a strong line-of-sight component.
-  </figcaption>
-</figure>
+
 
 ---
 
@@ -145,7 +139,7 @@ The goal is to build a comparative view of how dwarf galaxies lose gas, change t
 I also collaborate on solar-system projects at UC Chile. My earlier work focused on active asteroids, and more recently I contributed to spectroscopic studies of the interstellar object 3I/ATLAS, including X-shooter data reduction and analysis.
 
 <figure class="wide-figure">
-  <img src="{{ '/assets/img/uc_solar_system_group.jpg' | relative_url }}"
+  <img src="{{ '/assets/img/UC_team_photo.jpg' | relative_url }}"
        alt="UC Chile solar system working group">
   <figcaption>
     UC Chile solar-system working group.
