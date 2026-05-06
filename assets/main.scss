@@ -98,3 +98,78 @@
     max-width: none;
   }
 }
+
+/* Alternating image + text sections */
+.feature-row {
+  display: grid;
+  grid-template-columns: minmax(280px, 1.1fr) minmax(260px, 0.9fr);
+  gap: 28px;
+  align-items: center;
+  margin: 34px 0;
+  max-width: 1120px;
+}
+
+.feature-row.reverse {
+  grid-template-columns: minmax(260px, 0.9fr) minmax(280px, 1.1fr);
+}
+
+.feature-row.reverse .feature-image {
+  order: 2;
+}
+
+.feature-row.reverse .feature-text {
+  order: 1;
+}
+
+.feature-image img {
+  width: 100%;
+  display: block;
+  border-radius: 14px;
+}
+
+.feature-text h3 {
+  margin-top: 0;
+}
+
+.feature-text p {
+  max-width: 620px;
+}
+
+/* Paper digest block */
+.digest-box {
+  border: 1px solid #ddd;
+  border-radius: 16px;
+  padding: 22px;
+  margin: 28px 0;
+  max-width: 900px;
+  background: #fafafa;
+}
+
+.digest-box h3 {
+  margin-top: 0;
+}
+
+/* Make link rows look a bit more intentional */
+.link-row a {
+  border: 1px solid #ccc;
+  border-radius: 999px;
+  padding: 5px 11px;
+  text-decoration: none;
+}
+
+.link-row a:hover {
+  background: #f2f2f2;
+}
+
+/* Mobile stacking */
+@media screen and (max-width: 760px) {
+  .feature-row,
+  .feature-row.reverse {
+    grid-template-columns: 1fr;
+  }
+
+  .feature-row.reverse .feature-image,
+  .feature-row.reverse .feature-text {
+    order: initial;
+  }
+}
