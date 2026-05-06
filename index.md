@@ -7,7 +7,7 @@ layout: home
   <div style="flex:0 0 480px; max-width:480px;">
     <img src="/assets/img/pfp_JuanPablo_Carvajal_squared.jpg"
          alt="Juan Pablo Carvajal González"
-         style="width:260px; height:260px; object-fit:cover; border-radius:16px; display:block;">
+         style="width:480px; height:480px; object-fit:cover; border-radius:16px; display:block;">
   </div>
 
   <div style="flex:1; min-width:280px;">
