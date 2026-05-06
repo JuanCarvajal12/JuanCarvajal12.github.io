@@ -6,9 +6,9 @@ permalink: /research/
 
 # Research
 
-I study how environment transforms low-mass galaxies, with a focus on the initial evolution of dwarf galaxies entering the Fornax Cluster. My work combines VLT/MUSE integral-field spectroscopy with observations from the FUV to radio.
+I study how environment transforms low-mass galaxies, with a focus on the early evolution of dwarf galaxies entering the Fornax Cluster. My work combines VLT/MUSE integral-field spectroscopy with observations from the FUV to radio.
 
-I also collaborate on solar-system projects, including active asteroids and recently the interstellar comet 3I/ATLAS.
+I also collaborate on solar-system projects, including active asteroids and recent work on the interstellar comet 3I/ATLAS.
 
 ---
 
@@ -22,7 +22,7 @@ I also collaborate on solar-system projects, including active asteroids and rece
   </figcaption>
 </figure>
 
-Processing of dwarf galaxies in dense environment, such as galaxy cluster, will remove the gas reservoirs. RAM-pressure stripping or an enhanced rate of interactions with other galaxies will quickly remove the gas and dust of the circumgalactic and interestellar media. The transition from gas-rich to gas-poor dwarfs takes place fast (~1 Gyr). Thus, I try to understand how this step in the evolutionary history of dwarf galaxies in clusters occurs by characterising galaxies observed undergoing this transition stage, before they ultimately become gas-poor and quenched.
+Dense environments transform dwarf galaxies quickly. Ram pressure and galaxy-galaxy interactions can remove or disturb the gas and dust in the circumgalactic and interstellar media, pushing gas-rich dwarfs toward gas-poor, quenched systems. I focus on galaxies caught during this short transition stage, before the transformation is complete.
 
 <div class="research-grid">
 
@@ -33,7 +33,7 @@ Processing of dwarf galaxies in dense environment, such as galaxy cluster, will 
 
   <div class="research-card">
     <h3>Star formation</h3>
-    <p>What are the patterns of star formation of dwarfs as they infall clusters (duration, clumpyness, metallicity)?</p>
+    <p>How does star formation change as dwarfs fall into clusters: its duration, clumpiness, intensity, and chemical patterns?</p>
   </div>
 
   <div class="research-card">
@@ -47,7 +47,7 @@ Processing of dwarf galaxies in dense environment, such as galaxy cluster, will 
 
 ## NGC 1427A: a dwarf caught in transformation
 
-NGC 1427A is the first benchmark object I studied. It is a disturbed, star-forming dwarf in the Fornax Cluster with a cometary optical morphology, extended H&nbsp;I, and clear multi-phase asymmetries.
+NGC 1427A is the first benchmark object I studied in detail. It is a disturbed, star-forming dwarf in the Fornax Cluster with a cometary optical morphology, extended H&nbsp;I, and clear multi-phase asymmetries.
 
 <div class="feature-row">
   <div class="feature-image">
@@ -58,13 +58,12 @@ NGC 1427A is the first benchmark object I studied. It is a disturbed, star-formi
   <div class="feature-text">
     <h3>Gas displaced from the stellar body</h3>
     <p>
-      Deep MeerKAT H&nbsp;I maps show an asymmetric neutral-gas distribution around NGC 1427A, including an extended tail and disturbed gas around the stellar body.
-      This provides the clearest large-scale view of ongoing gas removal.
+      MeerKAT H&nbsp;I maps show an asymmetric neutral-gas distribution around NGC 1427A, including an extended tail and disturbed gas around the stellar body.
+      This gives the clearest large-scale view of ongoing gas removal.
     </p>
 
-    <p class="link-row">
-      <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260500988C/abstract" target="_blank" rel="noopener">ADS</a>
-      <a href="https://arxiv.org/abs/2605.00988" target="_blank" rel="noopener">arXiv</a>
+    <p>
+      The H&nbsp;I morphology links the current optical body to a larger disturbed gas reservoir, which is essential for separating local star formation from global environmental processing.
     </p>
   </div>
 </div>
@@ -79,50 +78,28 @@ NGC 1427A is the first benchmark object I studied. It is a disturbed, star-formi
     <h3>Stars and gas do not rotate the same way</h3>
     <p>
       The stellar, Hα, and H&nbsp;I velocity fields show different kinematic orientations.
-      A simple velocity-gradient estimate gives a clear gas–star misalignment, while the ionised and neutral gas remain more closely aligned with each other.
+      The gas is misaligned with the stars, while the ionised and neutral gas remain more closely aligned with each other.
     </p>
-  </div>
-</div>
 
-<div class="feature-row">
-  <div class="feature-image">
-    <img src="{{ '/assets/img/ngc1427a_fig9_sfr.png' | relative_url }}"
-         alt="Resolved H-alpha star formation rate surface density in NGC 1427A">
-  </div>
-
-  <div class="feature-text">
-    <h3>Star formation is clumpy and time-dependent</h3>
     <p>
-      Hα and FUV trace different recent timescales. Together, they show that star formation is spatially structured and not simply following the old stellar body.
-      This helps connect the present gas geometry with the recent star-formation history.
+      This decoupling is one of the key clues that the collisional components have been disturbed more strongly than the old stellar body.
     </p>
   </div>
 </div>
-
----
-
-## Paper digest: tidal pre-conditioning + ram-pressure stripping
 
 <div class="digest-box">
 
-### Tidal pre-conditioning and ram-pressure stripping in NGC 1427A
+### Paper digest: NGC 1427A in transformation
 
-**Problem.** Cluster dwarf galaxies are usually gas-poor today, but the transition from gas-rich to gas-poor is short and hard to catch directly.
-
-**What we did.** We combined a deep, spatially contiguous VLT/MUSE mosaic with FUV-to-radio data to map stars, ionised gas, H&nbsp;I, dust, recent star formation, and stellar populations in one system.
-
-**Main result.** The stars and gas are strongly decoupled. The gas phases are tilted relative to the stellar kinematics and are partly blueshifted, while dust and attenuation constraints indicate that gas and dust are being pushed partly along the line of sight.
-
-**Interpretation.** We argue for a mixed scenario: a mild dwarf–dwarf fly-by likely disturbed or pre-conditioned the gas, while ram pressure from the Fornax intracluster medium is now stripping the ISM.
+For a shorter explanation of the paper, with additional figures and context, see the digest page.
 
 <p class="link-row">
+  <a href="{{ '/digests/ngc1427a-transformation/' | relative_url }}">Read digest</a>
   <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260500988C/abstract" target="_blank" rel="noopener">ADS</a>
   <a href="https://arxiv.org/abs/2605.00988" target="_blank" rel="noopener">arXiv</a>
 </p>
 
 </div>
-
-
 
 ---
 
@@ -147,3 +124,4 @@ I also collaborate on solar-system projects at UC Chile. My earlier work focused
 </figure>
 
 See related papers in [Publications]({{ '/publications/' | relative_url }}).
+
