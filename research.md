@@ -39,29 +39,26 @@ NGC 1427A is my main benchmark object to understand early transformation in a lo
 
 ### Figures (from Carvajal et al., submitted)
 
-<figure style="margin:18px 0;">
+<figure class="wide-figure">
   <img src="{{ '/assets/img/ngc1427a_fig2_rgb.png' | relative_url }}"
-       alt="NGC 1427A: 8µm (dust), Hα, and FUV composite with H I contours"
-       style="width:100%; max-width:900px; border-radius:12px; display:block;">
-  <figcaption style="font-size:0.92rem; color:#555; margin-top:6px;">
-    <strong>Fig. 2.</strong> Multi-wavelength view of NGC 1427A: Spitzer 8µm (dust), MUSE Hα, and GALEX FUV, with optical contours overlaid (u+g+i). A compact star-forming body sits within a more extended multi-phase component.
+       alt="NGC 1427A: 8µm dust, Hα, and FUV composite">
+  <figcaption>
+    <strong>Fig. 2.</strong> Multi-wavelength view of NGC 1427A: Spitzer 8µm dust, MUSE Hα, and GALEX FUV, with optical contours overlaid. A compact star-forming body sits within a more extended multi-phase component.
   </figcaption>
 </figure>
 
-<figure style="margin:18px 0;">
+<figure class="wide-figure">
   <img src="{{ '/assets/img/ngc1427a_fig3_hi_optical.png' | relative_url }}"
-       alt="NGC 1427A: MeerKAT H I contours over optical image"
-       style="width:100%; max-width:900px; border-radius:12px; display:block;">
-  <figcaption style="font-size:0.92rem; color:#555; margin-top:6px;">
+       alt="NGC 1427A: MeerKAT H I contours over optical image">
+  <figcaption>
     <strong>Fig. 3.</strong> MeerKAT H I column-density contours over the optical light. The asymmetric, extended H I morphology highlights ongoing environmental interaction.
   </figcaption>
 </figure>
 
-<figure style="margin:18px 0;">
+<figure class="wide-figure">
   <img src="{{ '/assets/img/ngc1427a_fig10_cartoon.png' | relative_url }}"
-       alt="Schematic interpretation of NGC 1427A transformation"
-       style="width:100%; max-width:900px; border-radius:12px; display:block;">
-  <figcaption style="font-size:0.92rem; color:#555; margin-top:6px;">
+       alt="Schematic interpretation of NGC 1427A transformation">
+  <figcaption>
     <strong>Fig. 10.</strong> Schematic interpretation: a sequence from earlier pre-conditioning to the current stripping geometry, shown in projected and side views to emphasize the line-of-sight component.
   </figcaption>
 </figure>
@@ -74,11 +71,10 @@ NGC 1427A is my main benchmark object to understand early transformation in a lo
 I also like solar system science. My first paper (2023) focused on active asteroids in the context of Rubin-era science. More recently, I contributed to the 3I/ATLAS campaign, with the X-shooter spectroscopy data reduction and primary analysis. For details see the [Publications]({{ '/publications/' | relative_url }}).
 
 
-<figure style="margin:18px 0;">
+<figure class="wide-figure">
   <img src="{{ '/assets/img/UC_team_photo.jpg' | relative_url }}"
-       alt="UC Chile solar system working group"
-       style="width:100%; max-width:900px; border-radius:12px; display:block;">
-  <figcaption style="font-size:0.92rem; color:#555; margin-top:6px;">
+       alt="UC Chile solar system working group">
+  <figcaption>
     From top left, clockwise, Baltasar Luco, Thomas Puzia, Juan Carvajal, Rohan Rahatgaonkar.
   </figcaption>
 </figure>
