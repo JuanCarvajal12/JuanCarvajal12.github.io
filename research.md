@@ -12,7 +12,7 @@ I also collaborate on solar-system projects, including active asteroids and rece
 
 ---
 
-## Dwarf galaxy evolution
+# Dwarf galaxy evolution
 
 <figure class="wide-figure">
   <img src="{{ '/assets/img/ngc1427a_fig10_cartoon.png' | relative_url }}"
@@ -93,12 +93,21 @@ NGC 1427A is the first benchmark object I studied in detail. It is a disturbed, 
 
 <div class="digest-box">
 
-### Paper digest: NGC 1427A in transformation
+<strong>NGC 1427A in transformation</strong>
 
-For a shorter explanation of the paper, with additional figures and context, see the digest page.
+<p>
+  By combining spatially resolved star-formation tracers from FUV imaging and MUSE, multi-phase gas kinematics, and infrared constraints on dust, we reconstruct a likely evolutionary scenario for NGC&nbsp;1427A.
+</p>
+
+<p>
+  The main picture is that: (1) ram pressure from the Fornax intracluster medium has already reached the ISM, placing the galaxy near the onset of quenching; (2) earlier tidal pre-conditioning helped shape the star-formation history and made the gas more vulnerable to ram pressure; and (3) FCC&nbsp;229 is a plausible recent perturber.
+</p>
+
+<p>
+  More broadly, this work is a reminder that environmental transformation is not only a cluster-scale process. As dwarf galaxies enter clusters, they are shaped by the ICM and the cluster potential, but also by other low-mass halos falling along the same large-scale structure. These local interactions can pre-process the gas before the galaxy reaches the densest cluster environment.
+</p>
 
 <p class="link-row">
-  <a href="{{ '/digests/ngc1427a-transformation/' | relative_url }}">Read digest</a>
   <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260500988C/abstract" target="_blank" rel="noopener">ADS</a>
   <a href="https://arxiv.org/abs/2605.00988" target="_blank" rel="noopener">arXiv</a>
 </p>
@@ -107,23 +116,23 @@ For a shorter explanation of the paper, with additional figures and context, see
 
 ---
 
-## Broader thesis programme
+## Broader research goals
 
-NGC 1427A is the first detailed case study in a broader thesis programme on gas-rich dwarf galaxies in Fornax. The next step is to apply a similar multi-phase approach across a larger sample, combining MUSE spectroscopy with H&nbsp;I, CO, dust, and UV constraints where available.
+NGC 1427A is the first detailed case study in a broader thesis programme on gas-rich dwarf galaxies in Fornax. I am applying a similar approach across a larger sample, to go beyond a case study, and into understanding the mechanisms at play.
 
-The goal is to build a comparative view of how dwarf galaxies lose gas, change their star formation, and move toward quenching after entering the cluster environment.
+The aim is to characterize the pre-infall properties of dwarf galaxies formed in a dense environment, and understand the mechanisms that transform them as they infall and are ultimately quenched in the cluster environment.
 
 ---
 
-## Solar system science
+# Solar system science
 
-I also collaborate on solar-system projects at UC Chile. My earlier work focused on active asteroids, and more recently I contributed to spectroscopic studies of the interstellar object 3I/ATLAS, including X-shooter data reduction and analysis.
+I also collaborate on solar-system projects. My earlier work focused on active asteroids, and more recently I contributed to spectroscopic studies of the interstellar object 3I/ATLAS.
 
 <figure class="wide-figure">
   <img src="{{ '/assets/img/UC_team_photo.jpg' | relative_url }}"
        alt="UC Chile solar system working group">
   <figcaption>
-    UC Chile solar-system working group.
+    The team at UC Chile that did the optical spectroscopy characterization of 3I/ATLAS.
   </figcaption>
 </figure>
 
