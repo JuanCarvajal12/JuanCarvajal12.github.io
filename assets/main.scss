@@ -174,3 +174,51 @@
     order: initial;
   }
 }
+
+/* Outreach page */
+
+.outreach-hero {
+  max-width: 980px;
+  border-left: 5px solid #ddd;
+  padding: 18px 22px;
+  margin: 22px 0 30px 0;
+  background: #fafafa;
+  border-radius: 0 16px 16px 0;
+}
+
+.outreach-hero h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.outreach-hero p:last-child {
+  margin-bottom: 0;
+}
+
+.outreach-grid,
+.recognition-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+  margin: 26px 0;
+  max-width: 1120px;
+}
+
+.outreach-card,
+.recognition-card {
+  border: 1px solid #ddd;
+  border-radius: 16px;
+  padding: 18px;
+  background: #fff;
+}
+
+.outreach-card h3,
+.recognition-card h3 {
+  margin-top: 0;
+  font-weight: 700;
+}
+
+.outreach-card p:last-child,
+.recognition-card p:last-child {
+  margin-bottom: 0;
+}
