@@ -4,78 +4,152 @@ title: Research
 permalink: /research/
 ---
 
-I study the environmental transformation of galaxies, with a focus on **gas-rich dwarf galaxies** entering the **Fornax Cluster** for the first time. I primarily use **VLT/MUSE** integral-field spectroscopy, Next Generation Fornax Survey imaging (Muñoz et al. 2015) and MeerKAT H I observations from Serra et al. 2023. Whenever additional data is available and informative, I also try to make sense of it in a single coherent picture.
+# Research
 
-I also have an active interest in **solar system science**.
+I study how environment transforms low-mass galaxies, with a focus on the initial evolution of dwarf galaxies entering the Fornax Cluster. My work combines VLT/MUSE integral-field spectroscopy with observations from the FUV to radio.
 
----
-
-## Dwarf galaxies in clusters: first infall, stripping, and tides
-
-### Motivation
-Cluster dwarf galaxies today are mostly gas-poor and quenched, but the transition phase (from gas-rich to gas-poor) is short and hard to catch. The Fornax Cluster is a great nearby laboratory for this, and deep H I observations reveal a population of gas-rich dwarfs, some likely undergoing environmental interaction.
-
-Some questions that motivate my research are:
-- How do **ram-pressure stripping** and **tidal interactions** jointly regulate gas content and star formation of dwarf galaxies entering clusters?
-- Can we quantify the roles of gas-consumption vs. gas-removal by linking star-formation diagnostics to morphology and kinematics?
-- How is the transformation modulated by stellar mass and gas mass?
-- How does star formation enhancement in cluster dwarfs compare to dwarf-dwarf interaction-driven bursts?
-- Can spatially resolved chemistry + kinematics reveal **starburst migration** and progressive depletion?
-
-### Data & approach
-My core dataset is based on **VLT/MUSE** observations. I built a custom pipeline that wraps the regular data reduction workflow with improvements in sky subtraction strategies by using external photometric data. We analyze the data products with full-spectrum fitting. Details on the procedure and full list of references may be found in Carvajal et al. (2026, submitted).
+I also collaborate on solar-system projects, including active asteroids and recently the interstellar comet 3I/ATLAS.
 
 ---
 
-## Flagship case study: NGC 1427A (Fornax)
-
-NGC 1427A is my main benchmark object to understand early transformation in a low-mass galaxy. The project combines a deep, spatially contiguous MUSE mosaic with ancillary data from the FUV to radio (including H I), to link stars, ionised gas, neutral gas, and dust.
-
-**High-level result:** stars and gas are strongly decoupled, and the multi-phase constraints point to **ram-pressure stripping with a strong line-of-sight component**, plus an additional local perturbation consistent with a mild dwarf–dwarf fly-by.
-
-**Status / link**
-- Tidal pre-conditioning and ram-pressure stripping in NGC 1427A. Deep VLT/MUSE spectroscopy and FUV--to--radio observations trace a Fornax Cluster dwarf in transformation (submitted)
-  - If not available on arxiv yet, feel free to reach out requesting a preprint.
-
-### Figures (from Carvajal et al., submitted)
+## Dwarf galaxy evolution
 
 <figure class="wide-figure">
   <img src="{{ '/assets/img/ngc1427a_fig2_rgb.png' | relative_url }}"
-       alt="NGC 1427A: 8µm dust, Hα, and FUV composite">
+       alt="NGC 1427A multi-wavelength view">
   <figcaption>
-    <strong>Fig. 2.</strong> Multi-wavelength view of NGC 1427A: Spitzer 8µm dust, MUSE Hα, and GALEX FUV, with optical contours overlaid. A compact star-forming body sits within a more extended multi-phase component.
+    NGC 1427A seen through dust, ionised gas, and young stars: Spitzer 8&nbsp;µm, MUSE Hα, and UV/FUV imaging.
   </figcaption>
 </figure>
 
-<figure class="wide-figure">
-  <img src="{{ '/assets/img/ngc1427a_fig3_hi_optical.png' | relative_url }}"
-       alt="NGC 1427A: MeerKAT H I contours over optical image">
-  <figcaption>
-    <strong>Fig. 3.</strong> MeerKAT H I column-density contours over the optical light. The asymmetric, extended H I morphology highlights ongoing environmental interaction.
-  </figcaption>
-</figure>
+My thesis focuses on dwarf galaxies that are still gas-rich but already show signs of environmental transformation. These systems are useful because they let us study transformation while it is happening, rather than only after the galaxy has become gas-poor and quenched.
+
+<div class="research-grid">
+
+  <div class="research-card">
+    <h3>Gas removal</h3>
+    <p>How do ram pressure and tides remove, displace, or reshape the gas reservoirs of infalling dwarf galaxies?</p>
+  </div>
+
+  <div class="research-card">
+    <h3>Star formation</h3>
+    <p>Does environmental processing trigger short-lived bursts, redistribute star formation, or begin quenching?</p>
+  </div>
+
+  <div class="research-card">
+    <h3>Multi-phase structure</h3>
+    <p>How do stars, ionised gas, H&nbsp;I, dust, and molecular gas respond together during early transformation?</p>
+  </div>
+
+</div>
+
+---
+
+## NGC 1427A: a dwarf caught in transformation
+
+NGC 1427A is the first benchmark object I studied. It is a disturbed, star-forming dwarf in the Fornax Cluster with a cometary optical morphology, extended H&nbsp;I, and clear multi-phase asymmetries.
+
+<div class="feature-row">
+  <div class="feature-image">
+    <img src="{{ '/assets/img/ngc1427a_fig3_hi_optical.png' | relative_url }}"
+         alt="NGC 1427A with MeerKAT H I contours">
+  </div>
+
+  <div class="feature-text">
+    <h3>Gas displaced from the stellar body</h3>
+    <p>
+      Deep MeerKAT H&nbsp;I maps show an asymmetric neutral-gas distribution around NGC 1427A, including an extended tail and disturbed gas around the stellar body.
+      This provides the clearest large-scale view of ongoing gas removal.
+    </p>
+
+    <p class="link-row">
+      <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260500988C/abstract" target="_blank" rel="noopener">ADS</a>
+      <a href="https://arxiv.org/abs/2605.00988" target="_blank" rel="noopener">arXiv</a>
+    </p>
+  </div>
+</div>
+
+<div class="feature-row reverse">
+  <div class="feature-image">
+    <img src="{{ '/assets/img/ngc1427a_figD1_kinematic_pa.png' | relative_url }}"
+         alt="Kinematic position angle comparison for NGC 1427A">
+  </div>
+
+  <div class="feature-text">
+    <h3>Stars and gas do not rotate the same way</h3>
+    <p>
+      The stellar, Hα, and H&nbsp;I velocity fields show different kinematic orientations.
+      A simple velocity-gradient estimate gives a clear gas–star misalignment, while the ionised and neutral gas remain more closely aligned with each other.
+    </p>
+  </div>
+</div>
+
+<div class="feature-row">
+  <div class="feature-image">
+    <img src="{{ '/assets/img/ngc1427a_fig9_sfr.png' | relative_url }}"
+         alt="Resolved H-alpha star formation rate surface density in NGC 1427A">
+  </div>
+
+  <div class="feature-text">
+    <h3>Star formation is clumpy and time-dependent</h3>
+    <p>
+      Hα and FUV trace different recent timescales. Together, they show that star formation is spatially structured and not simply following the old stellar body.
+      This helps connect the present gas geometry with the recent star-formation history.
+    </p>
+  </div>
+</div>
+
+---
+
+## Paper digest: tidal pre-conditioning + ram-pressure stripping
+
+<div class="digest-box">
+
+### Tidal pre-conditioning and ram-pressure stripping in NGC 1427A
+
+**Problem.** Cluster dwarf galaxies are usually gas-poor today, but the transition from gas-rich to gas-poor is short and hard to catch directly.
+
+**What we did.** We combined a deep, spatially contiguous VLT/MUSE mosaic with FUV-to-radio data to map stars, ionised gas, H&nbsp;I, dust, recent star formation, and stellar populations in one system.
+
+**Main result.** The stars and gas are strongly decoupled. The gas phases are tilted relative to the stellar kinematics and are partly blueshifted, while dust and attenuation constraints indicate that gas and dust are being pushed partly along the line of sight.
+
+**Interpretation.** We argue for a mixed scenario: a mild dwarf–dwarf fly-by likely disturbed or pre-conditioned the gas, while ram pressure from the Fornax intracluster medium is now stripping the ISM.
+
+<p class="link-row">
+  <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260500988C/abstract" target="_blank" rel="noopener">ADS</a>
+  <a href="https://arxiv.org/abs/2605.00988" target="_blank" rel="noopener">arXiv</a>
+</p>
+
+</div>
 
 <figure class="wide-figure">
   <img src="{{ '/assets/img/ngc1427a_fig10_cartoon.png' | relative_url }}"
-       alt="Schematic interpretation of NGC 1427A transformation">
+       alt="Schematic evolutionary interpretation for NGC 1427A">
   <figcaption>
-    <strong>Fig. 10.</strong> Schematic interpretation: a sequence from earlier pre-conditioning to the current stripping geometry, shown in projected and side views to emphasize the line-of-sight component.
+    Cartoon interpretation of NGC 1427A: earlier tidal pre-conditioning followed by ram-pressure stripping with a strong line-of-sight component.
   </figcaption>
 </figure>
 
+---
+
+## Broader thesis programme
+
+NGC 1427A is the first detailed case study in a broader thesis programme on gas-rich dwarf galaxies in Fornax. The next step is to apply a similar multi-phase approach across a larger sample, combining MUSE spectroscopy with H&nbsp;I, CO, dust, and UV constraints where available.
+
+The goal is to build a comparative view of how dwarf galaxies lose gas, change their star formation, and move toward quenching after entering the cluster environment.
 
 ---
 
 ## Solar system science
 
-I also like solar system science. My first paper (2023) focused on active asteroids in the context of Rubin-era science. More recently, I contributed to the 3I/ATLAS campaign, with the X-shooter spectroscopy data reduction and primary analysis. For details see the [Publications]({{ '/publications/' | relative_url }}).
-
+I also collaborate on solar-system projects at UC Chile. My earlier work focused on active asteroids, and more recently I contributed to spectroscopic studies of the interstellar object 3I/ATLAS, including X-shooter data reduction and analysis.
 
 <figure class="wide-figure">
-  <img src="{{ '/assets/img/UC_team_photo.jpg' | relative_url }}"
+  <img src="{{ '/assets/img/uc_solar_system_group.jpg' | relative_url }}"
        alt="UC Chile solar system working group">
   <figcaption>
-    From top left, clockwise, Baltasar Luco, Thomas Puzia, Juan Carvajal, Rohan Rahatgaonkar.
+    UC Chile solar-system working group.
   </figcaption>
 </figure>
 
+See related papers in [Publications]({{ '/publications/' | relative_url }}).
