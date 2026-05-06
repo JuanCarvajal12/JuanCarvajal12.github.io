@@ -58,12 +58,15 @@ NGC 1427A is the first benchmark object I studied in detail. It is a disturbed, 
   <div class="feature-text">
     <h3>Gas displaced from the stellar body</h3>
     <p>
-      MeerKAT H&nbsp;I maps show an asymmetric neutral-gas distribution around NGC 1427A, including an extended tail and disturbed gas around the stellar body.
-      This gives the clearest large-scale view of ongoing gas removal.
+      MeerKAT H&nbsp;I maps show that the neutral gas around NGC 1427A is highly asymmetric. The gas forms two main tails: a long tail in the anti-cluster-centric direction, and a shorter extension toward the nearby dwarf FCC&nbsp;229.
     </p>
 
     <p>
-      The H&nbsp;I morphology links the current optical body to a larger disturbed gas reservoir, which is essential for separating local star formation from global environmental processing.
+      FCC&nbsp;229 is much less massive in stars than NGC 1427A, but its total mass may be more comparable. This makes it a plausible contributor to the local tidal disturbance, while the extended H&nbsp;I morphology remains the clearest evidence for ram-pressure stripping of the circumgalactic gas.
+    </p>
+
+    <p>
+      See also <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...690A...4S/abstract" target="_blank" rel="noopener">Serra et al. 2024</a>.
     </p>
   </div>
 </div>
@@ -82,7 +85,8 @@ NGC 1427A is the first benchmark object I studied in detail. It is a disturbed, 
     </p>
 
     <p>
-      This decoupling is one of the key clues that the collisional components have been disturbed more strongly than the old stellar body.
+      This gas–star decoupling is one of the key clues that the collisional component has been disturbed more strongly than the old stellar body.
+      Together with the H&nbsp;I extension toward FCC&nbsp;229, it supports a scenario where a recent local interaction helped reorient or pre-condition the gas before cluster ram pressure became dominant.
     </p>
   </div>
 </div>
