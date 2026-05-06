@@ -24,13 +24,12 @@ layout: home
       </p>
 
       <p style="margin:0 0 0.6rem 0;">
-        My core instrument is <strong>VLT/MUSE</strong>, but I work across wavelengths from <strong>FUV to radio</strong>,
-        combining existing datasets with new observations and proposals. I have ongoing programs to acquire optical IFU spectroscopy with VLT/MUSE, and sub-mm observations with APEX.
+        My core instrument is <strong>VLT/MUSE</strong>, but I work across wavelengths from <strong>FUV to millimeter/radio</strong>,
+        combining archival data, new observations, and proposal follow-up. I currently have observing programs with <strong>VLT/MUSE</strong> and <strong>APEX</strong>.
       </p>
 
       <p style="margin:0;">
-        I am also interested in solar system science: I have worked on active asteroids,
-        and more recently on major spectroscopic observations of the third interstellar object, 3I/ATLAS.
+        I also work on solar-system science, including active asteroids and spectroscopic observations of the interstellar object <strong>3I/ATLAS</strong>.
       </p>
     </div>
 
@@ -43,6 +42,20 @@ layout: home
       <a href="https://github.com/JuanCarvajal12" target="_blank" rel="noopener">GitHub</a> ·
       <a href="https://www.linkedin.com/in/juancarvajal12/" target="_blank" rel="noopener">LinkedIn</a>
     </p>
+
+    <div class="digest-box" style="margin-top:24px;">
+      <strong>Recent work</strong>
+
+      <p style="margin:0.5rem 0 0.7rem 0;">
+        My first-author paper on <strong>NGC&nbsp;1427A</strong> is now on arXiv: a multi-phase view of a Fornax dwarf undergoing tidal pre-conditioning and ram-pressure stripping.
+      </p>
+
+      <p class="link-row" style="margin-bottom:0;">
+        <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260500988C/abstract" target="_blank" rel="noopener">ADS</a>
+        <a href="https://arxiv.org/abs/2605.00988" target="_blank" rel="noopener">arXiv</a>
+        <a href="{{ '/research/' | relative_url }}">Research</a>
+      </p>
+    </div>
   </div>
 </div>
 
