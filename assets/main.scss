@@ -1,0 +1,73 @@
+---
+---
+
+@import "minima";
+
+/* Wider page layout than default Minima */
+.wrapper {
+  max-width: 1100px;
+}
+
+/* Keep text readable inside the wider layout */
+.post-content > p,
+.post-content > ul,
+.post-content > ol {
+  max-width: 780px;
+}
+
+/* Let figures use the wider page */
+.post-content figure {
+  max-width: 1050px;
+}
+
+/* Better figure spacing */
+.post-content figure img {
+  width: 100%;
+  border-radius: 14px;
+}
+
+.post-content figcaption {
+  font-size: 0.92rem;
+  color: #555;
+  margin-top: 6px;
+}
+
+/* Simple card grid for research summaries */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+  margin: 22px 0;
+}
+
+.research-card {
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  padding: 18px;
+  background: #fff;
+}
+
+.research-card h3 {
+  margin-top: 0;
+}
+
+/* Compact link buttons */
+.link-row {
+  margin-top: 10px;
+}
+
+.link-row a {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 8px;
+}
+
+/* Full-width visual blocks */
+.wide-figure {
+  margin: 22px 0;
+}
+
+.wide-figure img {
+  display: block;
+  max-width: 100%;
+}
