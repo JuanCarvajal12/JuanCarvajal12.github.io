@@ -43,23 +43,34 @@ layout: home
       <a href="https://www.linkedin.com/in/juancarvajal12/" target="_blank" rel="noopener">LinkedIn</a>
     </p>
 
-    <div class="digest-box" style="margin-top:24px;">
-      <strong>Recent work &amp; recognition</strong>
+    <section class="updates-section" aria-labelledby="updates-heading">
+      <h2 id="updates-heading">Updates</h2>
 
-      <p style="margin:0.5rem 0 0.7rem 0;">
-        My first-author paper on <strong>NGC&nbsp;1427A</strong> is now on arXiv: a multi-phase view of a Fornax dwarf undergoing tidal pre-conditioning and ram-pressure stripping.
-      </p>
+      <div class="updates-grid">
+        <article class="update-card">
+          <p class="update-date"><time datetime="2026">2026</time> · Publication</p>
+          <h3>NGC 1427A in transformation</h3>
+          <p>
+            My first-author paper on <strong>NGC&nbsp;1427A</strong> is now published in <em>A&amp;A</em>. It presents a multi-phase view of a Fornax dwarf undergoing tidal pre-conditioning and ram-pressure stripping.
+          </p>
+          <p class="link-row">
+            <a href="https://doi.org/10.1051/0004-6361/202659045" target="_blank" rel="noopener">Read the journal article</a>
+            <a href="https://arxiv.org/abs/2605.00988" target="_blank" rel="noopener">Read on arXiv</a>
+            <a href="{{ '/research/' | relative_url }}">Explore the research</a>
+          </p>
+        </article>
 
-      <p style="margin:0 0 0.7rem 0;">
-        In August 2026, I won <strong>first place</strong> in UC Chile's <strong>Three Minute Thesis (3MT)</strong> competition, presenting my doctoral research on environmental transformation in dwarf galaxies to a broad audience. I will represent UC Chile in the international Universitas 21 competition.
-      </p>
-
-      <p class="link-row" style="margin-bottom:0;">
-        <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260500988C/abstract" target="_blank" rel="noopener">ADS</a>
-        <a href="https://arxiv.org/abs/2605.00988" target="_blank" rel="noopener">arXiv</a>
-        <a href="https://doctorados.uc.cl/noticia/juan-pablo-carvajal-se-queda-con-el-primer-lugar-del-3mt-uc-2026/" target="_blank" rel="noopener">UC Chile announcement</a>
-        <a href="{{ '/research/' | relative_url }}">Research</a>
-      </p>
-    </div>
+        <article class="update-card">
+          <p class="update-date"><time datetime="2026-08">August 2026</time> · Recognition</p>
+          <h3>First place in 3MT UC 2026</h3>
+          <p>
+            I won UC Chile's <strong>Three Minute Thesis (3MT)</strong> competition, presenting my doctoral research on environmental transformation in dwarf galaxies to a broad audience. I will represent UC Chile in the international Universitas 21 competition.
+          </p>
+          <p class="link-row">
+            <a href="https://doctorados.uc.cl/noticia/juan-pablo-carvajal-se-queda-con-el-primer-lugar-del-3mt-uc-2026/" target="_blank" rel="noopener">Read UC Chile's announcement</a>
+          </p>
+        </article>
+      </div>
+    </section>
   </div>
 </div>

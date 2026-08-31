@@ -150,6 +150,55 @@
   margin-top: 0;
 }
 
+/* Homepage updates */
+.updates-section {
+  margin-top: 24px;
+  max-width: 900px;
+}
+
+.updates-section h2 {
+  margin: 0 0 14px;
+  font-size: 1.35rem;
+}
+
+.updates-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+}
+
+.update-card {
+  border: 1px solid #ddd;
+  border-radius: 16px;
+  padding: 20px;
+  background: #fafafa;
+  display: flex;
+  flex-direction: column;
+}
+
+.update-card h3 {
+  margin: 0 0 10px;
+}
+
+.update-card p {
+  margin: 0 0 14px;
+}
+
+.update-card .link-row {
+  margin-top: auto;
+  margin-bottom: 0;
+}
+
+.update-date {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.link-row a:focus-visible {
+  outline: 2px solid #555;
+  outline-offset: 2px;
+}
+
 /* Make link rows look a bit more intentional */
 .link-row a {
   border: 1px solid #ccc;
