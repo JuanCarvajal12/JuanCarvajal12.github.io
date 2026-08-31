@@ -12,19 +12,22 @@ For a complete and up-to-date list, see:
 ---
 ## Dwarf galaxy evolution
 
-- **Carvajal, J. P.**; Puzia, T. H.; Blaña, M.; *et al.* (2026, arXiv; submitted to A&A).  
-  *Tidal pre-conditioning and ram-pressure stripping in NGC 1427A. Deep VLT/MUSE spectroscopy and FUV-to-radio observations trace a Fornax Cluster dwarf in transformation.*  
-  [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260500988C/abstract) · [arXiv](https://arxiv.org/abs/2605.00988)
+- **Carvajal, J. P.**; Puzia, T. H.; Blaña, M.; *et al.* (2026, A&A, 712, A29).<br>
+  *Tidal preconditioning and ram-pressure stripping in NGC 1427A: Deep VLT/MUSE spectroscopy and FUV-to-radio observations trace a Fornax Cluster dwarf in transformation.*<br>
+  [Journal](https://doi.org/10.1051/0004-6361/202659045) · [arXiv](https://arxiv.org/abs/2605.00988)
 
-- Fahrion, K.; Hilker, M.; Chaturvedi, A.; **Carvajal, J. P.**; Puzia, T. H. (2026, arXiv; accepted in A&A).  
+- Fahrion, K.; Hilker, M.; Chaturvedi, A.; **Carvajal, J. P.**; Puzia, T. H. (2026, A&A, 712, A28).<br>
   *The complex history of NGC 1427A revealed by its star clusters and star formation history.*  
-  [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260500993F/abstract) · [arXiv](https://arxiv.org/abs/2605.00993)
+  [Journal](https://doi.org/10.1051/0004-6361/202659061) · [arXiv](https://arxiv.org/abs/2605.00993)
 
 
 ---
 
 ## Solar system science
 
+- Luco, B.; Puzia, T. H.; Rahatgaonkar, R.; **Carvajal, J. P.**; Nayak, P. K. (2026, accepted in A&A).<br>
+  *Very Large Telescope observations of interstellar comet 3I/ATLAS III: High-resolution monitoring of CN and forbidden oxygen emission across the perihelion passage with ESPRESSO.*<br>
+  [arXiv](https://arxiv.org/abs/2607.15355)
 
 - Hutsemékers, D.; Manfroid, J.; *et al.* (including **Carvajal, Juan P.**) (2026, A&A, 706, A43).  
   *Pre-perihelion evolution of the Ni I/Fe I abundance ratio in the coma of the interstellar comet 3I/ATLAS: From extreme to normal*  
@@ -53,7 +56,7 @@ For a complete and up-to-date list, see:
 - **Carvajal, J. P.**; Muñoz-Cuartas, J. C. (2023, MNRAS, 521, 6075).  
   *Towards the systematic detection of active asteroid candidates: A photometric method*  
   [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.6075C/abstract) ·
-  [Journal](https://doi.org/10.1093/mnras/stad850)
+  [Journal](https://doi.org/10.1093/mnras/stad897)
 
 ---
 
@@ -68,6 +71,5 @@ For a complete and up-to-date list, see:
 - **Carvajal, J. P.**; Bauer, F. E.; *et al.* (2025, A&A, 697, A119).  
   *Tuning into the spatial frequency space: Satellite and space debris detection in the ZTF alert stream*  
   [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.119C/abstract) ·
-  [arXiv](https://arxiv.org/abs/2507.02859) ·
+  [arXiv](https://arxiv.org/abs/2411.03258) ·
   [Journal](https://doi.org/10.1051/0004-6361/202452880)
-
