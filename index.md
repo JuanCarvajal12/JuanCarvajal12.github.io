@@ -24,12 +24,12 @@ layout: home
       </p>
 
       <p style="margin:0 0 0.6rem 0;">
-        My core instrument is <strong>VLT/MUSE</strong>, but I work across wavelengths from <strong>FUV to millimeter/radio</strong>,
-        combining archival data, new observations, and proposal follow-up. I currently have observing programs with <strong>VLT/MUSE</strong> and <strong>APEX</strong>.
+        The main instrument of my research is <strong>VLT/MUSE</strong>, but I work across wavelengths from <strong>FUV to millimeter and radio</strong>,
+        combining archival data, new observations, and follow-up programs. Recent and ongoing observing programs include <strong>VLT/MUSE</strong>, <strong>VLT/FORS2</strong>, and <strong>APEX</strong>.
       </p>
 
       <p style="margin:0;">
-        I also work on solar-system science, including active asteroids and spectroscopic observations of the interstellar object <strong>3I/ATLAS</strong>.
+        I have also worked on solar-system science, including active asteroids and spectroscopic observations of the interstellar object <strong>3I/ATLAS</strong>.
       </p>
     </div>
 
